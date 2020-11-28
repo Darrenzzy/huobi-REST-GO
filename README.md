@@ -1,5 +1,7 @@
 # HuobiProAPI - Go Language
 
+注：暂时没有支持mod 可弃用
+
 ## 依赖管理 
 支持Dep和Glide管理依赖
 
